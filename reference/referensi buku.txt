@@ -1,0 +1,48 @@
+referensi buku:
+1.
+https://books.google.co.id/books?hl=id&lr=&id=wcD_EAAAQBAJ&oi=fnd&pg=PA51&dq=Sistem+Keamanan+Komputer.+Batam:+Rey+Media++Grafika.+&ots=xdj_9PHQKt&sig=gXH2X6slkmK2lc3OipVvzJVd684&redir_esc=y#v=onepage&q&f=false
+2. https://drive.google.com/drive/folders/1wdQSukpKGiPF9wFn4ykTgPki5JbFxf9qw
+3. https://drive.google.com/drive/u/0/mobile/folders/1F7D5c30nP-y_Q7SFqoRTRvJ7tl0UcY3q
+4. https://drive.google.com/drive/folders/1szNFTWR41Y0mKuP1BdBIYS8BqRTzyNhg
+
+sumeber referensi:
+- buku ilmiah
+- jurnal/artikel
+- prosiding konferensi
+- dokumentasi teknis resmi
+- white paper
+- dataset resmi
+- standar industri/RFC
+- laporan industri
+
+sumber website/situs:
+1. https://pp.annuqayahlatee.id/ (diakses 07 Februari 2026)
+
+sitasi:
+[1] Rose, S., Borchert, O., Mitchell, S., & Connelly, S. (2020). Zero Trust Architecture. https://doi.org/10.6028/NIST.SP.800-207
+
+[2] Meucci, M., & Muller, A. (n.d.). 4.0 Testing Guide. Retrieved http://www.owasp.org
+
+[3] Dharmawangsa, I. and S. G. and P. I. (2023). Penetration testing berbasis owasp testing guide versi 4.2 (studi kasus: X website). Download. Garuda. Kemdikbud. Go. Id.
+
+[4] IEEE. (2021). IEEE Recommended Practice for Measurements and Computations of Electric, Magnetic, and Electromagnetic Fields with Respect to Human Exposure to Such Fields, 0 Hz to 300 GHz. IEEE Std C95.3-2021, 1–240. https://doi.org/10.1109/IEEESTD.2021.9444273
+
+[5] Jati Setyadi, H., & Rivani Ibrahim, M. (n.d.). Penetration Testing Website E-Journals Metode NIST SP 800-115 dan OWASP. 9, 2025. https://doi.org/10.47002/metik.v9i1.1030
+
+[6] Madani, M. A., Syamsul, L. A., & Akbar, I. (2024). Penetration Testing untuk Menguji Sistem Keamanan pada Website dengan Metode Black-Box ARTICLE INFO ABSTRACT (Vol. 2, Issue 1).
+
+[7] McGraw, G. (2012). Software Security. Datenschutz Und Datensicherheit - DuD, 36(9), 662–665. https://doi.org/10.1007/s11623-012-0222-3
+
+[8] Pendidikan, J., & Konseling, D. (n.d.). Penetration Testing pada Website Universitas Singaperbangsa Karawang Menggunakan Open Web Application Security Project (OWASP) (Vol. 4).
+
+[9] Raharjo, N. P., & Ibad, N. (2024). Transformasi Pesantren di Era Digital: Peluang dan Tantangan dalam Aspek Dakwah dan Pendidikan. Masjiduna : Junal Ilmiah Stidki Ar-Rahmah, 7(1), 39–47. https://doi.org/10.52833/masjiduna.v7i1.211
+
+[10] Riandhanu, I. O. (2022). Analisis Metode Open Web Application Security Project (OWASP) Menggunakan Penetration Testing pada Keamanan Website Absensi. Jurnal Informasi Dan Teknologi. https://doi.org/10.37034/jidt.v4i3.236
+
+[11] Rohmaniah, D., Miftahul Ashari, W., & Dwi Putra, A. (2025). Enhancing Website Security Using Vulnerability Assessment and Penetration Testing (VAPT) Based on OWASP Top Ten. In Journal of Applied Informatics and Computing (JAIC) (Vol. 9, Issue 2). http://jurnal.polibatam.ac.id/index.php/JAIC
+
+[12] Sin, L. W., Samsudin, A. E., Zengeni, I. P., & Zolkipli, M. F. (2024). Zero Trust Security Models in Penetration Testing. International Journal of Advances in Engineering and Management (IJAEM), 6, 442. https://doi.org/10.35629/5252-0607442450
+
+[13] Supriadi, D., Suryadi, E., Muslim, R., Delsi Samsumar, L., & Teknologi Mataram, U. (n.d.). IMPLEMENTASI VULNERABILITY ASSESSMENT OWASP (OPEN WEB APPLICATION SECURITY PROJECT) PADA WEBSITE UNIVERSITAS TEKNOLOGI MATARAM. In Journal of Data Analytics, Information, and Computer Science (JDAICS) (Vol. 1).
+
+[14] Zainal Abidin, A., Saputra, H., & Taufiq Sumadi, M. (2023). Penetration testing on mail server website using the OWASP method. In Jurnal Mandiri IT (Vol. 12, Issue 2). www.ejournal.isha.or.id/index.php/Mandiri

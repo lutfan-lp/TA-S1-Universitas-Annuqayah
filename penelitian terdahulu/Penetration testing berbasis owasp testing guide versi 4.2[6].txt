@@ -1,0 +1,6 @@
+@article{dharmawangsa2023penetration,
+  title={Penetration testing berbasis owasp testing guide versi 4.2 (studi kasus: X website)},
+  author={Dharmawangsa, IDGG and Sasmita, GMA and Pratama, IPAE},
+  journal={download. garuda. kemdikbud. go. id},
+  year={2023}
+}

@@ -1,0 +1,19 @@
+TY  - JOUR
+TI  - Penetration Testing untuk Menguji Sistem Keamanan pada Website
+PY  - %2024/%03/%30
+Y2  - %2026/%03/%24
+JF  - JEITECH  (JOURNAL OF ELECTRICAL ENGINEERING, INFORMATION TECHNOLOGY, CONTROL ENGINEERING, AND ROBOTIC)
+JA  - JEITECH
+VL  - 2
+IS  - 1
+SE  - Articles
+LA  - en
+KW  - Penetration Testing
+KW  - OWASP Top 10
+KW  - WSTG Guide
+KW  - Keamanan Website
+KW  - Website
+UR  - https://journal.unram.ac.id/index.php/jeitech/article/view/3961
+SP  - 33-45
+AB  - The use of websites has a significant role in increasing efficiency, transparency, and public participation in public administration processes. Websites have become effective tools for providing accurate and up-to-date information about public policies, programs, and services. Although the use of websites has contributed positively, challenges such as website security need to be improved. The goal to be achieved in this study is to conduct penetration testing with the Black Box method by referring to the Open Web Application Security Project (OWASP) Top 10-2021. The number of subdomains tested was 3 identified subdomains. All vulnerability assessments are carried out in 4 stages consisting of footprinting, scanning, exploitation, and reporting. This penetration testing refers to Web Security Guide (WSTG) guidance document version 4.2. The result of this study was the discovery of 3 vulnerabilities with a distribution of 1 High, 1 Low, and 1 Informational. The final process of this research is in the form of recommendations that can be used as a reference for website application developers to deal with vulnerabilities, especially loss of service availability and data leakage.
+ER  -
